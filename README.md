@@ -746,6 +746,7 @@ It's free & open-source. Enjoy! 🚀
 | 📖 | [Ultimate Cursor AI Course](https://www.instructa.ai) | Learn how to use Cursor AI to write code, write blog posts, and more. | 25% OFF with Code **BLACKCURSOR25** |
 | 🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. If you’re preparing for a coding interview or working on a large-scale project, knowing how to use custom hooks in React is invaluable. | 50% OFF with code **BLACKFRIDAY_2024** |
 | 🌐 | [DNS for Developers](https://nslookup.io/dns-course/) | Everything developers should know about DNS. Delegation, propagation, SPF, DKIM, DMARC, security, and much more. Learn DNS once and for all. | Get 66% OFF at checkout  |
+| 💡 | [CodeFast](https://codefa.st/?via=homepage) | Everything you need to know to turn your idea into an online business, even if you're a complete beginner. Build your SaaS in 14 days! | 50% OFF for 24 hours only  |
 
 ### Art Courses
 | | Name | Description | Deal |
